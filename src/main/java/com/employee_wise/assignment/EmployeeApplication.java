@@ -12,12 +12,7 @@ import io.swagger.v3.oas.annotations.info.Info;
 		info = @Info(
 					title = "API Documentation",
 					version = "1.0.0",
-					description = "Documentation for all API in this project.",
-					contact = @Contact(
-								email = "tyagiakshit171@gmail.com",
-								name = "Akshit Tyagi",
-								url = "https://github.com/akshittyagi171"
-							)
+					description = "Documentation for all API in this project."
 				)
 )
 public class EmployeeApplication {
